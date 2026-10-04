@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Huynh Tuan Kiet
 
-<!--
-**Huynhkiet2510/Huynhkiet2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern and responsive web applications with ReactJS and JavaScript.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+- Git & GitHub
+
+## Featured Projects
+
+### MovieWeb
+
+Movie website built with React, Redux Toolkit and TMDB API.
+
+[Live Demo](https://movie-web-yzeh.vercel.app)
+
+### Blog Router App
+
+Blog management application with CRUD functionality and React Router.
+
+[Live Demo](https://blog-router-app-rose.vercel.app)
+
+### E-Learning Platform
+
+E-learning platform built with React and REST API.
+
+[Live Demo](https://e-learning-platform-vert-rho.vercel.app)
+
+## Portfolio
+
+My personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer.
+
+[View My Portfolio](https://portfolio-dev-cyan-three.vercel.app)
